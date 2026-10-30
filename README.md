@@ -1,16 +1,16 @@
-# Practice: Variables and Data Types
+# Exercise: Variables and Data Types
 
-Practice code for the lesson **Practice: Variables and Data Types** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
+Exercise code for the lesson **Exercise: Variables and Data Types** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
 
-You will solve 28 small problems in `VariablesPractice/Program.cs`: declaring variables, choosing data types, and calculating with expressions. Tests check every answer.
+You will solve 28 small problems in `VariablesExercise/Program.cs`: declaring variables, choosing data types, and calculating with expressions. Tests check every answer.
 
 ## Run it
 
 ```bash
-dotnet run --project VariablesPractice
+dotnet run --project VariablesExercise
 ```
 
-In Visual Studio, open `VariablesPractice.slnx` and press **Ctrl+F5**.
+In Visual Studio, open `VariablesExercise.slnx` and press **Ctrl+F5**.
 
 ## Check your answers
 

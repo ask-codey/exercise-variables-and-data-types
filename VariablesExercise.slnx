@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="VariablesExercise/VariablesExercise.csproj" />
+  <Project Path="VariablesExercise.Tests/VariablesExercise.Tests.csproj" />
+</Solution>
